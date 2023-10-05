@@ -172,16 +172,16 @@ Answer: We welcome collaboration and support. If you're interested in contributi
 
 
 ## Guiding Quotes:
-"Difficulties are just things to overcome, after all." — Ernest Shackleton
-"The sky is not the limit; your mind is." — Marilyn Monroe
-"For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return." — Leonardo da Vinci
-"Aviation is proof that given the will, we have the capacity to achieve the impossible." — Eddie Rickenbacker
-"Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." — Socrates
-"Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
-"To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt
-"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it is the only thing that ever has." — Margaret Mead
-"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." — Michelangelo
-"The most difficult thing is the decision to act, the rest is merely tenacity." — Amelia Earhart
+- "Difficulties are just things to overcome, after all." — Ernest Shackleton
+- "The sky is not the limit; your mind is." — Marilyn Monroe
+- "For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return." — Leonardo da Vinci
+- "Aviation is proof that given the will, we have the capacity to achieve the impossible." — Eddie Rickenbacker
+- "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." — Socrates
+- "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
+- "To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt
+- "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it is the only thing that ever has." — Margaret Mead
+- "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." — Michelangelo
+- "The most difficult thing is the decision to act, the rest is merely tenacity." — Amelia Earhart
 
 
 ## For the Layman: A Sobering Overview of Our Ambitious Plan
