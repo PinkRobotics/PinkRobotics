@@ -264,7 +264,7 @@ Imagine a future where fleets of airships are the new stewards of our ecosystems
 
 __Why Not Traditional Methods?__
 
-Trucks and planes have their merits, but when it comes to transporting water across vast distances, their limitations become glaringly obvious. Airships offer a more sustainable and efficient alternative, one that doesn't buckle under the weight of the task—literally.
+Trucks and planes are good for some jobs, but moving a lot of water over long distances isn't one of them. Airships can do it better, using less energy and causing less harm to the environment.
 
 __Feasibility__
 
