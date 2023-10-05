@@ -5,6 +5,7 @@ In the face of escalating wildfires and water scarcity, this paper introduces an
 
 
 ## Introduction
+> "Difficulties are just things to overcome, after all." — Ernest Shackleton
 The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a comprehensive strategy to combat climate change by reimagining water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed.
 
 ### Background: The Logistical Nightmare of Water Transportation
@@ -28,6 +29,8 @@ Our innovative approach employs 3D printing and a vacuum as a lift mechanism. Th
 
 
 ## The Vision: Airships as the New Rainmakers
+> "The sky is not the limit; your mind is." — Marilyn Monroe
+
 Imagine a future where the sky is filled with fleets of airships, each a marvel of engineering and autonomy, soaring above parched landscapes and fire-ravaged forests. These are not your grandfather's blimps; these are state-of-the-art vessels designed to replace the whims of weather with the precision of science. Picture these airships as the new rainmakers, guardians of our ecosystems, capable of delivering life-giving water exactly where it's needed, when it's needed.
 Envision these airships working in harmony, a symphony of technology and nature, pipelining water from lakes and reservoirs to the heart of raging wildfires or drought-stricken farmlands. Think of them as our atmosphere's new stewards, operating tirelessly day and night, and in conditions no human pilot would dare to navigate. These airships are not just machines; they are a manifestation of our audacity, our ingenuity, and our unyielding commitment to safeguarding our planet.
 Now, consider the scale. We're not talking about a handful of airships but an armada, each capable of lifting upwards of 100 tons of water. While this may sound like a vision from a science fiction novel, it's a concept grounded in scientific and engineering principles. Utilizing advancements in 3D printing technology and vacuum-based lift mechanisms, we aim to transform this ambitious idea into a feasible, scalable solution for one of the most pressing challenges of our time.
@@ -36,6 +39,8 @@ This is more than a technological breakthrough; it's a paradigm shift in our rel
 
 
 ## Engineering and Scalability: The Backbone of the New Rainmakers
+> "For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return." — Leonardo da Vinci
+
 Our vision for water transportation using airships is far from a mere concept; it's a critical response to the urgent and complex challenges of global water distribution. In a world grappling with escalating needs and diminishing resources, airships stand not as a luxury but as an essential solution.
 
 ### Material Science: Balancing Strength and Efficiency
@@ -66,6 +71,8 @@ By fundamentally altering our relationship with water and the environment, we ar
 
 
 ## Monetization Strategy: Sustaining the Vision
+> "Aviation is proof that given the will, we have the capacity to achieve the impossible." — Eddie Rickenbacker
+
 While the primary aim of this initiative is to address the urgent challenges of climate change and water scarcity, its long-term sustainability is contingent upon a viable monetization strategy. Our approach is as multifaceted as the challenges we aim to solve, designed to generate revenue while staying true to our mission of environmental stewardship.
 
 ### Public-Private 
@@ -83,6 +90,8 @@ Beyond water transport, our airships have the capability to provide a range of d
 By diversifying our revenue streams, we aim to build a robust financial foundation that enables us to scale our operations and extend our reach, all while maintaining the integrity of our environmental objectives.
 
 ## Challenges and Risks: Navigating the Path Ahead
+> "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." — Socrates
+
 While the vision for water transportation using airships is compelling, it is not without its challenges and risks. This section aims to provide a transparent overview of the hurdles we anticipate.
 
 ### Technological Complexity
@@ -109,6 +118,8 @@ The global scale of the project necessitates a strong ethical framework. This in
 
 
 ## Roadmap: A Phased Approach to a Global Solution
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
+
 The journey from concept to reality is a complex one. This roadmap outlines the phased approach we intend to take to bring this audacious vision to life.
 
 ### Phase 1: Conceptualization and Initial Prototyping (2023-2025)
@@ -139,10 +150,18 @@ The journey from concept to reality is a complex one. This roadmap outlines the 
 *	Continuously engage with stakeholders, including regulatory bodies and communities, to adapt and improve the system.
 *	Maintain a commitment to helping communities wherever possible, always being a force for good.
 
+
+
 ## Conclusion
+> "The most difficult thing is the decision to act, the rest is merely tenacity." — Amelia Earhart
+
 As we navigate the challenges of a changing climate, the need for bold and effective solutions is clear. This paper serves as an invitation to reimagine water transport and distribution through the use of airships. Our aim is to become stewards of our ecosystems, ensuring that life-giving water reaches the places it's most needed. The time for discussion has passed; now is the time for decisive action.
 
+
+
 ## Frequently Asked Questions
+> "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." — Michelangelo
+
 ### 1. Why Airships?
 Answer: Airships offer a unique combination of lifting capacity and energy efficiency, making them an ideal solution for large-scale, sustainable water transport.
 
@@ -171,20 +190,10 @@ Answer: Like any ambitious project, there are risks, including technical challen
 Answer: We welcome collaboration and support. If you're interested in contributing, please email Tyler at Tyler@PinkRobotics.ca.
 
 
-## Guiding Quotes:
-- "Difficulties are just things to overcome, after all." — Ernest Shackleton
-- "The sky is not the limit; your mind is." — Marilyn Monroe
-- "For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return." — Leonardo da Vinci
-- "Aviation is proof that given the will, we have the capacity to achieve the impossible." — Eddie Rickenbacker
-- "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." — Socrates
-- "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
-- "To handle yourself, use your head; to handle others, use your heart." — Eleanor Roosevelt
-- "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it is the only thing that ever has." — Margaret Mead
-- "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." — Michelangelo
-- "The most difficult thing is the decision to act, the rest is merely tenacity." — Amelia Earhart
-
 
 ## For the Layman: A Sobering Overview of Our Ambitious Plan
+> "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." — Michelangelo
+
 ### The Vision
 Imagine a future where fleets of airships are the new stewards of our ecosystems. These aren't whimsical fantasies; they are engineered solutions designed to tackle the urgent challenges of wildfires and water scarcity.
 
