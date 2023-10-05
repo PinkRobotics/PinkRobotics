@@ -1,4 +1,7 @@
-# The Audacity of Water Transport Using Airships: A Game-Changer in Combating Wildfires and Revitalizing Parched Landscapes
+# The Audacity of Aerial Aqueducts using Airships
+
+> "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do." - Sarah Ban Breathnach
+
 ## Abstract
 In the face of escalating wildfires and water scarcity, this paper introduces an audacious yet scientifically grounded approach to water transport using airships. The initiative aims to replace sporadic rainfall and enable precise water distribution, thereby reimagining our interaction with the environment. The paper outlines the engineering, scalability, and potential impact of this initiative while addressing challenges, risks, and ethical considerations.
 
