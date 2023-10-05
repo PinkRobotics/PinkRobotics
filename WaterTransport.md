@@ -126,7 +126,7 @@ By diversifying our revenue streams, we aim to build a robust financial foundati
 
 
 
-__Challenges and Risks: Navigating the Path Ahead__
+## Challenges and Risks: Navigating the Path Ahead
 
 > "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." — Socrates
 
