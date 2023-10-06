@@ -10,3 +10,9 @@ In a world gasping for clean air, our Carbon Capture initiative aims to be a bre
 
 ### Water Transportation via Airships
 When it comes to combating wildfires and revitalizing parched landscapes, our Airship initiative is designed to be a game-changer. Imagine fleets of airships, engineered for efficiency and impact, replacing the sporadic rainfall and enabling precise water distribution. This initiative is not just about firefighting; it's about reimagining how we interact with our environment. For an in-depth look at this audacious project, check out our [Water Transportation Paper](WaterTransport.md).
+
+
+## Support and Contact
+If you're inspired by our work and wish to support us, the best way to do so is through our [Patreon page](https://www.patreon.com/PinkRobotics). For community discussions, questions, or suggestions, feel free to join us at our [Reddit community](https://www.reddit.com/r/PinkRobotics/).
+
+For those interested in direct collaboration or investment opportunities, please reach out via email at: Tyler@PinkRobotics.ca
