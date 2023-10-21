@@ -1,19 +1,19 @@
 # Pink Robotics: Where Audacity Meets Climate Action
 
 ## Introduction
-Welcome to Pink Robotics, where audacious climate solutions come to life. In the face of climate change, we're not merely weathering the storm; we're harnessing its power. Our initiatives are designed for those who dare to dream big and take calculated risks. Here, innovation and audacity pave the way for transformative climate action.
+Welcome to Pink Robotics, where audacious climate solutions come to life. In the face of climate change, we're not merely weathering the storm, we're harnessing its power. Our initiatives are for those who dare to dream big and take calculated risks. Here, innovation and audacity pave the way for real transformative climate action.
 
-## Our Initiatives: Tackling Climate Change on Two Fronts
+## Tackling Climate Change on Two Fronts
 
-### Carbon Capture Using Cyanobacteria
-In a world yearning for cleaner air, our Carbon Capture initiative aims to be a vital lifeline. By leveraging the innate carbon-absorbing capabilities of cyanobacteria, we're engineering a closed-loop system aimed at being a comprehensive solution for the CO2 crisis, even in the context of ongoing fossil fuel consumption. For an in-depth exploration of the science and strategy behind this groundbreaking initiative, please refer to our [Carbon Capture Paper](https://github.com/PinkRobotics/PinkRobotics/blob/main/CarbonCapture.md).
+### Carbon Capture
+In a world on fire, our Carbon Capture initiative aims to be a vital lifeline. By leveraging the innate carbon-absorbing capabilities of cyanobacteria, we're engineering a closed-loop system aimed at being a solution for the whole CO2 problem, even in the context of inevitable and ongoing fossil fuel emissions. For an in-depth exploration of the science and strategy behind our plans, refer to our [Carbon Capture Paper](https://github.com/PinkRobotics/PinkRobotics/blob/main/CarbonCapture.md).
 
 
-### Water Transportation via Airships
-When it comes to combating wildfires and revitalizing parched landscapes, our Airship initiative is designed to be a game-changer. Imagine fleets of airships, engineered for efficiency and impact, replacing the sporadic rainfall and enabling precise water distribution. This initiative is not just about firefighting; it's about reimagining how we interact with our environment. For an in-depth look at this audacious project, check out our [Water Transportation Paper](WaterTransport.md).
+### Airships
+When it comes to combating wildfires, revitalizing parched landscapes and reversing floods, Airship are a legit game-changer. Imagine fleets of airships replacing the sporadic rainfall and enabling precise water distribution. This initiative is not just about firefighting; it's about reimagining how we interact with our environment. Check out our [Water Transportation Paper](WaterTransport.md).
 
 
 ## Support and Contact
-If you're inspired by our work and wish to support us, the best way to do so is through our [Patreon page](https://www.patreon.com/PinkRobotics). For community discussions, questions, or suggestions, feel free to join us at our [Reddit community](https://www.reddit.com/r/PinkRobotics/).
+Inspired by our work and interested in supporting us? Don't feel obligated, especially if your funds are short, but if you insist, the best way to do so is through our [Patreon page](https://www.patreon.com/PinkRobotics). For community discussions, questions, or suggestions, please to join us at our [Reddit community](https://www.reddit.com/r/PinkRobotics/).
 
-For those interested in direct collaboration or investment opportunities, please reach out via email at: Tyler@PinkRobotics.ca
+For those interested in direct collaboration, careers or investment opportunities, please reach out via email at: Tyler@PinkRobotics.ca
