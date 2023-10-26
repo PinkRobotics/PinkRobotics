@@ -71,7 +71,8 @@ As an unconventional yet intriguing option, the biomass could be piled up to cre
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
-Given the scale of carbon capture, traditional methods of monetizing the captured carbon are impractical. Selling the physical carbon would either reintroduce it into the atmosphere or require additional carbon emissions for transportation. Moreover, the sheer volume of captured carbon would flood any existing market. Therefore, we propose a novel approach: building a pyramid with the captured biomass and monetizing it through mainly digital means. 
+Given the unprecedented scale of the required carbon capture, traditional methods of monetizing on the capture carbon will be impractical. Selling the physical carbon will almost certainly reintroduce it into the atmosphere and incur additional carbon emissions. Then, the sheer volume of captured carbon would saturate and destabilize any existing market, rendering traditional sales approaches impossible. So, we propose an different solution: build a pyramid with the captured biomass and monetize it digitally.
+
 
 ### Digital Carbon Offsets
 We will offer digital representations of the captured carbon, which can be purchased by individuals, organizations, and countries to offset their carbon emissions. These digital assets will serve as verifiable tokens of carbon capture, backed by the physical pyramid. This creates a new, scalable market for real carbon offsets, without the need to move or worry about the physical carbon.
