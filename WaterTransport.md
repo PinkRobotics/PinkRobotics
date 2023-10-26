@@ -35,8 +35,7 @@ Wind is a significant obstacle for airship operations. Our approach to overcomin
 
 ### The Future: 3D-Printed, Vacuum-Based Airships
 
-Our innovative approach employs 3D printing and a vacuum as a lift mechanism. The airships are printed in segments designed for maximal strength and minimal weight. These segments are assembled, and the air is evacuated to create a vacuum, eliminating the need for costly and difficult lift gases. 
-
+Using modern technology, which is basically magic, we leverage 3D printing to build vacuum-based lift systems for our airships. Each airship is constructed from 3D-printed segments, meticulously engineered for optimal strength-to-weight ratios. Then once assembled, we remove the air from each piece to make a vacuum, thereby removing the need for expensive and potentially dangerous lifting gases.
 
 
 ## The Vision: Airships as the New Rainmakers
