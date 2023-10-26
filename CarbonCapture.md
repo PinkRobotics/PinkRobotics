@@ -94,13 +94,13 @@ Before diving into the intricacies of our multi-phase plan, let's set the stage 
 Our journey kicks off at our wilderness ranch, a place where duct tape is just as important as any high-tech gadget. This will be our sandbox for innovation, a place where we can roll up our sleeves and get to work on solving climate change.
 
 ### Phase 1: Proof of Concept
-The first order of business is to reliably grow cyanobacteria in a scalable manner. We'll use whatever resources we have at the ranch to make this happen, proving that our concept is more than just a pipe dream.
+The first order of business is to reliably grow cyanobacteria in a scalable manner. Starting with a lean approach and iterative experiments, we aim to demonstrate that our concept is not just a lofty idea, but a feasible pathway for large-scale carbon capture.
 
 ### Phase 2: One Human's Worth
 With a proof of concept in hand, we'll aim to scale our system to offset the carbon emissions of a single person over a year. It's a small step, but a significant one, as it shows that our solution has real-world applicability.
 
 ### Phase 3: City-Scale Implementation
-Once we've proven that we can offset the carbon footprint of one person, we'll set our sights on an entire city. We'll work diligently to scale our technology, always keeping the global community in the loop through real-time updates and interactive dialogues.
+Once we've proven that we can offset the carbon footprint of one person, we'll set our sights on a small city. We'll work diligently to scale our technology, always keeping the global community in the loop through real-time updates and interactive dialogues.
 
 ### Phase 4: Country-Scale Deployment
 After successfully offsetting a city's worth of emissions, we'll be ready to take on a whole country. This will require substantial resources and partnerships, but we're committed to making it happen.
@@ -109,7 +109,8 @@ After successfully offsetting a city's worth of emissions, we'll be ready to tak
 The penultimate phase involves scaling our solution to offset global emissions. By this point, we'll have a robust, well-tested system ready for worldwide deployment.
 
 ### Phase 6: Beyond the Present
-The final phase is perhaps the most ambitious: offsetting historical and excessive natural emissions. This is the ultimate goal, and while it's a tall order, we're up for the challenge.
+The final phase is perhaps the most ambitious: offsetting historical and excessive natural emissions. This is the ultimate goal, and while it's a ludicrously monumental task, we are fully committed to meeting it head-on, driven by the urgency of the climate crisis.
+
 
 ### The Commitment
 
@@ -121,11 +122,11 @@ This roadmap isn't set in stone; it's more like a sketch on a napkin. But it's a
 
 > "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
-As we stand on the precipice of irreversible climate change, the need for scalable, sustainable solutions has never been more urgent. While the fossil fuel industry shows no signs of abating, and emissions are unlikely to reach zero in the foreseeable future, this paper presents a daring yet feasible approach to not just envision but actually implement a scalable carbon capture solution. Utilizing cyanobacteria as a bio-agent for carbon capture and storage (CCS), this proposal outlines a comprehensive strategy that encompasses key factors, global context, potential improvements, and a unique monetization model.
+As we stand on the precipice of irreversible climate change, the need for scalable, sustainable solutions has never been more urgent. While the fossil fuel industry shows no signs of abating and emissions are unlikely to ever reach zero, this paper presents a daring yet feasible approach to not just envision but actually implement a scalable and monitizable carbon capture solution.
 
-The audacity of this endeavor is not lost on us. However, the severity of the climate crisis demands that we explore every avenue, no matter how unconventional. Through a combination of biological innovation, digital assets, and public engagement, we aim to create a sustainable revenue model that not only funds ongoing carbon capture efforts but also involves the public in a meaningful way.
+The audacity of this endeavor is not lost on us. However, the severity of the climate crisis demands that we explore every avenue, no matter how unconventional.
 
-The timeline is ambitious, the risks are high, but the alternative is unthinkable. This may be our only solution; it must work. As we move forward, we invite collaboration, critique, and, most importantly, action. We urge you to get involved—whether through financial contributions, sharing this paper to increase its visibility, or providing valuable feedback. The time for debate is over; the time for action is now.
+Our timelines are ambitious, the risks are high, but the alternative is unthinkable. This may be our only solution; it must work. As we move forward, we invite collaboration, critique, and most importantly, action. We urge you to get involved—whether through financial contributions, sharing this paper to increase its visibility, or providing valuable feedback. The time for debate is over; the time for action is now.
 
 
 
@@ -134,21 +135,29 @@ The timeline is ambitious, the risks are high, but the alternative is unthinkabl
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." - Thomas A. Edison
 
 1. Why Cyanobacteria?
-Answer: Cyanobacteria are one of the most efficient organisms for photosynthesis, capable of converting carbon dioxide into biomass. They are also abundant and relatively easy to cultivate, making them a sustainable option for large-scale carbon capture.
+Answer: Cyanobacteria are one of the most efficient organisms for photosynthesis, capable of converting carbon dioxide into biomass at over 10x faster than plants. They are also abundant and relatively easy to cultivate and engineer, making them a sustainable option for large-scale carbon capture.
+
 1. How Feasible is the Pyramid Approach?
-Answer: The pyramid approach is unconventional but offers a straightforward method of storing the captured carbon in a stable form. It also serves as a monument to human ingenuity and a potential tourist attraction, thereby creating a revenue stream.
+Answer: The pyramid approach is unconventional but offers a brutally straightforward method of storing the captured carbon in a stable form. It also serves as a monument to human ingenuity and a potential tourist attraction, thereby creating an additional revenue stream.
+
 1. What are the Environmental Implications?
-Answer: We're acutely aware of the environmental responsibilities that come with a project of this magnitude. Rest assured, our operations are designed to be a closed-loop system, minimizing any external impact. The primary environmental effect we aim for is the reduction of atmospheric CO2 levels. We're committed to ensuring that our facilities neither contaminate the environment nor become contaminated by it.
+Answer: We're acutely aware of the environmental responsibilities that come with a project of this magnitude. Rest assured, our operations are designed to be a closed-loop system, minimizing any external impact. The only environmental effect we aim for is the reduction of atmospheric CO2 levels. We're committed to ensuring that our facilities neither contaminate the natural environment nor become contaminated by it.
+
 1. How are Ethical Concerns Addressed?
 Answer: Ethical considerations, particularly in the realm of genetic engineering, are not lost on us. We're likely to employ genetic modifications on cyanobacteria, but these will be securely contained within a closed-loop system. While the ethical landscape of genetic engineering is complex, we believe the severity of climate change warrants this calculated risk. Transparency and ongoing ethical review are integral to our operations.
+
 1. How Will This Be Funded?
 Answer: Funding will be sourced through a diverse network of individuals, communities, and institutions. For ongoing support, visit Pink Robotics on Patreon. For big contributions or partnerships, reach out directly via email at Tyler@PinkRobotics.ca.
+
 1. What's the Timeline for Implementation?
 Answer: We aim to capture 1 ton of carbon per year within 2 years, scale up to 1 kiloton per year within 5 years, reach 1 gigaton per year within a decade, achieve emission equivalence by 2050, and restore CO2 levels to preindustrial levels by 2100.
+
 1. Is This Scientifically Validated?
 Answer: While the concept is based on established scientific principles, we are in the process of seeking third-party validation to lend further credibility to the project.
+
 1. Are There Any Risks or Drawbacks?
-Answer: Like any ambitious project, there are risks. However, this may be our only solution. If so, it must work; it is necessary for our survival.
+Answer: Like any ambitious project, there are risks. However, this may be our only solution. If so, it must work; it is necessary for the survival of humanity.
+
 1. How Can I Get Involved?
 Answer: Success hinges on visibility and support. To contribute, help amplify the project's reach on social media. Financial contributions are welcome on Patreon, while Reddit is ideal for feedback, discussions and questions. Both platforms can be found under "Pink Robotics." For direct involvement or specific inquiries, email Tyler@PinkRobotics.ca.
 
