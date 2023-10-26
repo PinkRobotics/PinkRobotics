@@ -4,15 +4,14 @@
 
 ## Abstract
 
-As the climate crisis intensifies, the need for scalable and sustainable solutions for carbon capture and storage (CCS) becomes increasingly urgent. This paper introduces a novel approach to CCS using cyanobacteria, microorganisms capable of converting carbon dioxide into biomass through photosynthesis. This paper outlines key factors, calculations, and the potential for scalability, while also addressing challenges, risks, and ethical considerations. It proposes a method of storing the captured biomass by constructing monumental pyramids, thereby sequestering the carbon in a stable form for eternity. The paper also introduces a monetization strategy of digital carbon offsets and tourism. The audacity of this endeavor is acknowledged by the author, but the urgency of the climate crisis demands bold and innovative solutions.
-
+As the climate crisis intensifies, the need for scalable and sustainable solutions for carbon capture and storage (CCS) becomes increasingly urgent. This paper introduces a novel approach to CCS using cyanobacteria, microorganisms capable of converting carbon dioxide into biomass through photosynthesis. We outline key factors, calculations and the potential for scalability, while also addressing challenges, risks, and ethical considerations. We propose a method of storing the captured biomass by constructing monumental pyramids to sequester the carbon in a stable form for eternity. We also introduce a monetization strategy of digital carbon offset tokens. The audacity of this endeavor is acknowledged by the author, but the urgency of the climate crisis demands bold and innovative solutions.
 
 
 ## Introduction
 
 > "Be the change that you wish to see in the world." - Mahatma Gandhi
 
-The climate crisis is an existential threat to humanity. Despite global efforts to transition to renewable energy sources and improve energy efficiency, carbon dioxide levels continue to rise, exacerbating global warming and its catastrophic consequences. All indications show that emissions will never go to zero, and the fossil fuel industry will continue for the foreseeable future. Clearly, a solution is required, and any solution must entail a truly scalable carbon capture solution to not only be envisioned but created, operated, and maintained.
+The climate crisis is an existential threat to humanity. Despite global efforts to transition to renewable energy sources and improve energy efficiency, carbon dioxide levels continue to rise, exacerbating global warming and its catastrophic consequences. All indications show that emissions will never go to zero and the fossil fuel industry will continue for the foreseeable future. Clearly, a solution is required, and any such solution must entail a truly scalable carbon capture solution to not only be envisioned but created, operated and maintained.
 
 While various methods of carbon capture and storage (CCS) have been proposed and tested, none scale to the size of the challenge. This paper introduces a novel approach to CCS using cyanobacteria as a biologically based solution to capture and store carbon dioxide from the atmosphere. We aim to provide a comprehensive, viable and sustainable solution to one of the most pressing issues of our time.
 
