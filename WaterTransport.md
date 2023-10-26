@@ -3,8 +3,8 @@
 > "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do." - Sarah Ban Breathnach
 
 ## Abstract
-In the face of escalating wildfires and water scarcity, this paper introduces an audacious yet scientifically grounded approach to water transport using airships. This initiative aims to supplement sporadic rainfall and enable precise water distribution, to reimagining our interaction with the environment. We outline the engineering, scalability, and potential impact of this initiative while addressing challenges, risks, and ethical considerations.
 
+Amidst rampant wildfires and acute water shortages, this paper presents a bold, yet rigorously researched, solution for water transportation via airships. Our initiative aspires not only to augment inconsistent rainfall patterns but also to revolutionize water distribution methods, thereby transforming our relationship with the natural world. We comprehensively detail the engineering principles, scalability prospects, and anticipated societal impacts of our initiative, while thoughtfully tackling associated challenges, risks, and ethical dilemmas. 
 
 
 ## Introduction
