@@ -1,9 +1,9 @@
-# The Audacity of Aerial Aqueducts using Airships
+# The Audacity of Airships
 
 > "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do." - Sarah Ban Breathnach
 
 ## Abstract
-In the face of escalating wildfires and water scarcity, this paper introduces an audacious yet scientifically grounded approach to water transport using airships. The initiative aims to replace sporadic rainfall and enable precise water distribution, thereby reimagining our interaction with the environment. The paper outlines the engineering, scalability, and potential impact of this initiative while addressing challenges, risks, and ethical considerations.
+In the face of escalating wildfires and water scarcity, this paper introduces an audacious yet scientifically grounded approach to water transport using airships. This initiative aims to supplement sporadic rainfall and enable precise water distribution, to reimagining our interaction with the environment. We outline the engineering, scalability, and potential impact of this initiative while addressing challenges, risks, and ethical considerations.
 
 
 
@@ -11,29 +11,29 @@ In the face of escalating wildfires and water scarcity, this paper introduces an
 
 > "Difficulties are just things to overcome, after all." — Ernest Shackleton
 
-The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a comprehensive strategy to combat climate change by reimagining water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed.
+The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a new strategy to combat climate change by reimagining water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed, and removing it where it is not.
 
-__Background: The Logistical Nightmare of Water Transportation__
+## Background: The Logistical Nightmare of Water Transportation
 
 The climate crisis has intensified the need for effective and sustainable water transportation solutions. Current methods have proven to be inadequate for the scale and complexity of the challenges we face.
 
-__The Limitations of Aerial Solutions: Planes and Helicopters__
+### The Limitations of Aerial Solutions: Planes and Helicopters
 
-Transporting water is challenging, primarily due to its weight. Existing methods like pipes and trucks have significant limitations. Airplanes and helicopters, while flexible, require substantial energy and produce considerable emissions, making them unsustainable for large-scale water transportation. The risk of crashes adds another layer of complexity, particularly in operations like wildfire fighting.
+Transporting water is challenging, primarily because it is ridiculously heavy. Existing methods like pipes and trucks have significant and obvious limitations. Airplanes and helicopters, while more flexible, require substantial energy and produce considerable emissions, making them unsustainable for large-scale water transportation solutions. The risk of crashes adds another layer of complexity, particularly in operations like wildfire fighting.
 
-__A Brief History and Definition of Airships, Zeppelins, and Blimps__
+### A Brief History and Definition of Airships, Zeppelins, and Blimps
 
 Airships have fascinated humanity for over a century. Zeppelins and blimps are specific types of airships, with Zeppelins featuring a rigid internal structure and blimps lacking one. Historically, airships offered a unique and luxurious travel experience, unparalleled by other forms of air travel.
 
-__The Airship Advantage: A Paradigm Shift in Water Transportation__
+### The Airship Advantage: A Paradigm Shift in Water Transportation
 
 Airships leverage atmospheric buoyancy to lift significant weight with minimal energy. Advanced autonomous systems enable a fleet of airships to perform complex tasks, such as pipelining water from diverse sources to a single destination. 
 
-__Overcoming the Wind Challenge__
+### Overcoming the Wind Challenge
 
-Wind is a significant obstacle for airship operations. Our approach to overcoming this challenge is multi-faceted: we aim to reduce wind impact through aerodynamic optimizations and low-drag fabrics, while robust propulsion systems provide the necessary force to navigate effectively. Advanced autonomous control systems ensure precise and reliable control, even when conditions deteriorate.
+Wind is a significant obstacle for airship operations. Our approach to overcoming this challenge is multifaceted and straightforward: we aim to reduce wind impact through aerodynamic optimizations and low-drag fabrics, while robust propulsion systems provide the necessary forces to navigate effectively. Advanced autonomous control systems ensure precise and reliable control, even when conditions deteriorate.
 
-__The Future: 3D-Printed, Vacuum-Based Airships__
+### The Future: 3D-Printed, Vacuum-Based Airships
 
 Our innovative approach employs 3D printing and a vacuum as a lift mechanism. The airships are printed in segments designed for maximal strength and minimal weight. These segments are assembled, and the air is evacuated to create a vacuum, eliminating the need for costly and difficult lift gases. 
 
