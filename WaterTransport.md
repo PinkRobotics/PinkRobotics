@@ -4,30 +4,32 @@
 
 ## Abstract
 
-Amidst rampant wildfires and acute water shortages, this paper presents a bold, yet rigorously researched, solution for water transportation via airships. Our initiative aspires not only to augment inconsistent rainfall patterns but also to revolutionize water distribution methods, thereby transforming our relationship with the natural world. We comprehensively detail the engineering principles, scalability prospects, and anticipated societal impacts of our initiative, while thoughtfully tackling associated challenges, risks, and ethical dilemmas. 
+Amidst rampant wildfires and devastating water shortages, this paper presents a bold yet plausible solution for water transportation via airships. Our initiative aspires not only to augment inconsistent rainfall patterns but also to revolutionize water distribution to fundamentally transform our relationship with the natural world.
 
 
 ## Introduction
 
 > "Difficulties are just things to overcome, after all." — Ernest Shackleton
 
-The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a new strategy to combat climate change by reimagining water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed, and removing it where it is not.
+The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a new strategy to combat climate change by reimagining large scale water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed, and removing it where it is not.
 
 ## Background: The Logistical Nightmare of Water Transportation
 
-The climate crisis has intensified the need for effective and sustainable water transportation solutions. Current methods have proven to be inadequate for the scale and complexity of the challenges we face.
+Moving water is hard, really hard. Current methods have proven to be inadequate for the scale and complexity of the challenges we face.
+
+### Why Transport Water at All
 
 ### The Limitations of Aerial Solutions: Planes and Helicopters
 
-Transporting water is challenging, primarily because it is ridiculously heavy. Existing methods like pipes and trucks have significant and obvious limitations. Airplanes and helicopters, while more flexible, require substantial energy and produce considerable emissions, making them unsustainable for large-scale water transportation solutions. The risk of crashes adds another layer of complexity, particularly in operations like wildfire fighting.
+Transporting water is challenging because it is ridiculously heavy. Existing methods like pipes and trucks have significant and obvious limitations to address anything where roads and pipes don't already exist. Airplanes and helicopters, while more flexible, require substantial energy and produce considerable emissions, making them unsustainable for the scale we require. The risk of crashes adds another layer of complexity, particularly in operations like wildfire fighting.
 
 ### A Brief History and Definition of Airships, Zeppelins, and Blimps
 
-Airships have fascinated humanity for over a century. Zeppelins and blimps are specific types of airships, with Zeppelins featuring a rigid internal structure and blimps lacking one. Historically, airships offered a unique and luxurious travel experience, unparalleled by other forms of air travel.
+Airships have fascinated humanity for over a century. Zeppelins and blimps are specific types of airships, with Zeppelins featuring a rigid internal structure and blimps lacking one. Historically, airships offered a unique and luxurious travel experience, unparalleled by other forms of air travel - assuming a successful flight. 
 
 ### The Airship Advantage: A Paradigm Shift in Water Transportation
 
-Airships leverage atmospheric buoyancy to lift significant weight with minimal energy. Advanced autonomous systems enable a fleet of airships to perform complex tasks, such as pipelining water from diverse sources to a single destination. 
+Airships leverage atmospheric buoyancy to lift significant weight with minimal energy. Advanced autonomous systems will enable a fleet of airships to perform complex tasks, such as pipelining water from diverse sources to a single destination. 
 
 ### Overcoming the Wind Challenge
 
