@@ -19,9 +19,11 @@ Moving water is hard, really hard. Current methods have proven to be inadequate 
 
 ### Why Transport Water at All
 
+Amidst climate change, efficient water transport transitions from luxury to necessity. The roles are manifold: drought mitigation, agricultural support, wildfire control, disaster relief, and ecosystem restoration. Designed as the linchpin of our strategy, our airships offer scalable, sustainable solutions to these urgent challenges.
+
 ### The Limitations of Aerial Solutions: Planes and Helicopters
 
-Transporting water is challenging because it is ridiculously heavy. Existing methods like pipes and trucks have significant and obvious limitations to address anything where roads and pipes don't already exist. Airplanes and helicopters, while more flexible, require substantial energy and produce considerable emissions, making them unsustainable for the scale we require. The risk of crashes adds another layer of complexity, particularly in operations like wildfire fighting.
+Water's immense weight makes its transport inherently challenging. Traditional methods like pipes and trucks fail where infrastructure doesn't exist. While more versatile airplanes and helicopters consume uncomfortable amounts of energy and emit substantial pollutants, rendering them unsuitable for our large scale needs. Crash risks further complicate matters, especially in high-stakes operations such as wildfire combat.
 
 ### A Brief History and Definition of Airships, Zeppelins, and Blimps
 
