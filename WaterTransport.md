@@ -6,6 +6,7 @@
 
 Amidst rampant wildfires and devastating water shortages, this paper presents a bold yet plausible solution for water transportation via airships. Our initiative aspires not only to augment inconsistent rainfall but also revolutionize water distribution and fundamentally transform our relationship with the natural world.
 
+![An Airship bringing water to fire](/Airships/Images/Dalle3/bambi3.jpg "Pink Robotics Airship, Bringing Water To Fire").
 
 ## Introduction
 
