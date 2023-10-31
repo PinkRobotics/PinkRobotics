@@ -10,7 +10,7 @@ In a world on fire, our Carbon Capture initiative aims to be a vital lifeline. B
 
 
 ### Airships
-When it comes to combating wildfires, revitalizing parched landscapes and preventing floods, Airship are a legitimate game-changer. Imagine fleets of airships replacing sporadic rainfall and enabling precise water distribution at a global scale. This initiative is not just about firefighting; it's about reimagining how we interact with our environment. Check out our [Water Transportation Paper](WaterTransport.md).
+When it comes to combating wildfires, revitalizing parched landscapes and preventing floods, Airship are a legitimate game-changer. Imagine fleets of airships replacing sporadic rainfall and enabling precise water distribution at a global scale. This initiative is not just about firefighting; it's about reimagining how we interact with our environment. Check out our [Airships Paper](Airships.md).
 
 
 ## Support and Contact
