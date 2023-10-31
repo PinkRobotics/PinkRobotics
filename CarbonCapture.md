@@ -1,5 +1,8 @@
 # The Audacity of Carbon Capture Using Cyanobacteria
 
+<img align="right" src="/Carbon/Images/Collections/cyanobacteria_1.gif" width="400">
+<br clear="left"/>
+
 > "The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs
 
 ## Abstract
@@ -14,7 +17,6 @@ As the climate crisis intensifies, the need for scalable and sustainable solutio
 The climate crisis is an existential threat to humanity. Despite global efforts to transition to renewable energy sources and improve energy efficiency, carbon dioxide levels continue to rise, exacerbating global warming and its catastrophic consequences. All indications show that emissions will never go to zero and the fossil fuel industry will continue for the foreseeable future. Clearly, a solution is required, and any such solution must entail a truly scalable carbon capture solution to not only be envisioned but created, operated and maintained.
 
 While various methods of carbon capture and storage (CCS) have been proposed and tested, none scale to the size of the challenge. This paper introduces a novel approach to CCS using cyanobacteria as a biologically based solution to capture and store carbon dioxide from the atmosphere. We aim to provide a comprehensive, viable and sustainable solution to one of the most pressing issues of our time.
-
 
 
 ## Key Factors and Calculations
@@ -31,13 +33,15 @@ To put this into perspective, let's consider that global carbon dioxide emission
 
 To truly comprehend the staggering volume of 13.7 trillion liters required for this endeavor, consider that it would be roughly equivalent to 1.14 times the volume of Lake Superior — one of the largest freshwater lakes in the world. While the scale of this project may evoke disbelief or even ridicule, it's crucial to remember that the climate crisis leaves us with limited options. The sheer size of this project is not a whimsical exaggeration but a sobering necessity. Faced with the existential threat of unchecked global CO2 emissions, the issue is not whether a project of this monumental scale is too ambitious; rather, it's that the severity of the climate crisis demands solutions of equivalent scale. Anything less would be a failure to meet the challenge before us.
 
-
 ### Improvements and Optimizations
 
 Genetic engineering, artificial intelligence, and robotics are poised to revolutionize the efficacy and scalability of this carbon capture initiative. Through genetic engineering, we aim to develop hyper-efficient strains of cyanobacteria that not only excel in carbon capture but are also optimized for ease of harvest. Artificial intelligence, especially machine learning algorithms, will continuously fine-tune growth conditions, ensuring peak carbon capture performance around the clock. Automation and robotics will be indispensable in achieving cost-effective, uninterrupted operation enabling relentless carbon sequestration.
 
 
 ## Our Cyanobacteria Growth Process
+
+<img align="right" src="/Carbon/Images/Collections/bioreactor_1.gif" width="400">
+<br clear="left"/>
 
 > "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." - Antoine de Saint-Exupéry
 
@@ -67,6 +71,9 @@ As an unconventional yet intriguing option, the biomass could be piled up to cre
 
 
 ## Monetization: The Pyramid and Beyond
+
+<img align="right" src="/Carbon/Images/Collections/pyramid_1.gif" width="400">
+<br clear="left"/>
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
