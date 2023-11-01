@@ -97,7 +97,7 @@ By combining digital carbon offsets with physical tourism, we create a sustainab
 Before diving into the intricacies of our multi-phase plan, let's set the stage for where we currently stand. We're at the starting line of this ambitious endeavor, equipped with a vision and a roadmap, but still in the process of gathering the necessary resources. The following roadmap outlines the phases and milestones we aim to achieve, but it's crucial to note that we're in the initial stages of this journey. We're actively seeking funding, building our team, and laying the groundwork for each subsequent phase. Now, let's introduce you to the cornerstone of our project: our wilderness ranch.
 
 ### The Starting Point: The Wilderness Ranch
-Our journey kicks off at our wilderness ranch, a place where duct tape is just as important as any high-tech gadget. This will be our sandbox for innovation, a place where we can roll up our sleeves and get to work on solving climate change.
+Our journey kicks off at our wilderness ranch, also known as The Climate Solutions Campus, or The Campus, is a place where duct tape is just as important as any high-tech gadget. This will be our sandbox for innovation, a place where we can roll up our sleeves and get to work on solving climate change.
 
 ### Phase 1: Proof of Concept
 The first order of business is to reliably grow cyanobacteria in a scalable manner. Starting with a lean approach and iterative experiments, we aim to demonstrate that our concept is not just a lofty idea, but a feasible pathway for large-scale carbon capture.
