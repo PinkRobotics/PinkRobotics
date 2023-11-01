@@ -132,7 +132,7 @@ As we stand on the precipice of irreversible climate change, the need for scalab
 
 The audacity of this endeavor is not lost on us. However, the severity of the climate crisis demands that we explore every avenue, no matter how unconventional.
 
-Our timelines are ambitious, the risks are high, but the alternative is unthinkable. This may be our only solution; it must work. As we move forward, we invite collaboration, critique, and most importantly, action. We urge you to get involved—whether through financial contributions, sharing this paper to increase its visibility, or providing valuable feedback. The time for debate is over; the time for action is now.
+Our timelines are ambitious, the risks are high, but the alternative is unthinkable. This may be our only solution; it must work. As we move forward, we invite collaboration, critique, and most importantly, action. We urge you to get involved — whether through financial contributions, sharing this paper to increase its visibility, or providing valuable feedback. The time for debate is over; the time for action is now.
 
 
 
@@ -141,31 +141,40 @@ Our timelines are ambitious, the risks are high, but the alternative is unthinka
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." - Thomas A. Edison
 
 1. Why Cyanobacteria?
-Answer: Cyanobacteria are one of the most efficient organisms for photosynthesis, capable of converting carbon dioxide into biomass at over 10x faster than plants. They are also abundant and relatively easy to cultivate and engineer, making them a sustainable option for large-scale carbon capture.
+
+Cyanobacteria are one of the most efficient organisms for photosynthesis, capable of converting carbon dioxide into biomass at over 10x faster than plants. They are also abundant and relatively easy to cultivate and engineer, making them a sustainable option for large-scale carbon capture.
 
 1. How Feasible is the Pyramid Approach?
-Answer: The pyramid approach is unconventional but offers a brutally straightforward method of storing the captured carbon in a stable form. It also serves as a monument to human ingenuity and a potential tourist attraction, thereby creating an additional revenue stream.
+
+The pyramid approach is unconventional but offers a brutally straightforward method of storing the captured carbon in a stable form. It also serves as a monument to human ingenuity and a potential tourist attraction, thereby creating an additional revenue stream.
 
 1. What are the Environmental Implications?
-Answer: We're acutely aware of the environmental responsibilities that come with a project of this magnitude. Rest assured, our operations are designed to be a closed-loop system, minimizing any external impact. The only environmental effect we aim for is the reduction of atmospheric CO2 levels. We're committed to ensuring that our facilities neither contaminate the natural environment nor become contaminated by it.
+
+We're acutely aware of the environmental responsibilities that come with a project of this magnitude. Rest assured, our operations are designed to be a closed-loop system, minimizing any external impact. The only environmental effect we aim for is the reduction of atmospheric CO2 levels. We're committed to ensuring that our facilities neither contaminate the natural environment nor become contaminated by it.
 
 1. How are Ethical Concerns Addressed?
-Answer: Ethical considerations, particularly in the realm of genetic engineering, are not lost on us. We're likely to employ genetic modifications on cyanobacteria, but these will be securely contained within a closed-loop system. While the ethical landscape of genetic engineering is complex, we believe the severity of climate change warrants this calculated risk. Transparency and ongoing ethical review are integral to our operations.
+
+Ethical considerations, particularly in the realm of genetic engineering, are not lost on us. We're likely to employ genetic modifications on cyanobacteria, but these will be securely contained within a closed-loop system. While the ethical landscape of genetic engineering is complex, we believe the severity of climate change warrants this calculated risk. Transparency and ongoing ethical review are integral to our operations.
 
 1. How Will This Be Funded?
-Answer: Funding will be sourced through a diverse network of individuals, communities, and institutions. For ongoing support, visit Pink Robotics on Patreon. For big contributions or partnerships, reach out directly via email at Tyler@PinkRobotics.ca.
+
+Funding will be sourced through a diverse network of individuals, communities, and institutions. For ongoing support, visit Pink Robotics on Patreon. For big contributions or partnerships, reach out directly via email at Tyler@PinkRobotics.ca.
 
 1. What's the Timeline for Implementation?
-Answer: We aim to capture 1 ton of carbon per year within 2 years, scale up to 1 kiloton per year within 5 years, reach 1 gigaton per year within a decade, achieve emission equivalence by 2050, and restore CO2 levels to preindustrial levels by 2100.
+
+We aim to capture 1 ton of carbon per year within 2 years, scale up to 1 kiloton per year within 5 years, reach 1 gigaton per year within a decade, achieve emission equivalence by 2050, and restore CO2 levels to preindustrial levels by 2100.
 
 1. Is This Scientifically Validated?
-Answer: While the concept is based on established scientific principles, we are in the process of seeking third-party validation to lend further credibility to the project.
+
+While the concept is based on established scientific principles, we are in the process of seeking third-party validation to lend further credibility to the project.
 
 1. Are There Any Risks or Drawbacks?
-Answer: Like any ambitious project, there are risks. However, this may be our only solution. If so, it must work; it is necessary for the survival of humanity.
+
+Like any ambitious project, there are risks. However, this may be our only solution. If so, it must work; it is necessary for the survival of humanity.
 
 1. How Can I Get Involved?
-Answer: Success hinges on visibility and support. To contribute, help amplify the project's reach on social media. Financial contributions are welcome on Patreon, while Reddit is ideal for feedback, discussions and questions. Both platforms can be found under "Pink Robotics." For direct involvement or specific inquiries, email Tyler@PinkRobotics.ca.
+
+Success hinges on visibility and support. To contribute, help amplify the project's reach on social media. Financial contributions are welcome on Patreon, while Reddit is ideal for feedback, discussions and questions. Both platforms can be found under "Pink Robotics." For direct involvement or specific inquiries, email Tyler@PinkRobotics.ca.
 
 
 ## For the Layman: What This All Means
