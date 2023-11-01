@@ -144,35 +144,35 @@ Our timelines are ambitious, the risks are high, but the alternative is unthinka
 
 Cyanobacteria are one of the most efficient organisms for photosynthesis, capable of converting carbon dioxide into biomass at over 10x faster than plants. They are also abundant and relatively easy to cultivate and engineer, making them a sustainable option for large-scale carbon capture.
 
-1. How Feasible is the Pyramid Approach?
+2. How Feasible is the Pyramid Approach?
 
 The pyramid approach is unconventional but offers a brutally straightforward method of storing the captured carbon in a stable form. It also serves as a monument to human ingenuity and a potential tourist attraction, thereby creating an additional revenue stream.
 
-1. What are the Environmental Implications?
+3. What are the Environmental Implications?
 
 We're acutely aware of the environmental responsibilities that come with a project of this magnitude. Rest assured, our operations are designed to be a closed-loop system, minimizing any external impact. The only environmental effect we aim for is the reduction of atmospheric CO2 levels. We're committed to ensuring that our facilities neither contaminate the natural environment nor become contaminated by it.
 
-1. How are Ethical Concerns Addressed?
+4. How are Ethical Concerns Addressed?
 
 Ethical considerations, particularly in the realm of genetic engineering, are not lost on us. We're likely to employ genetic modifications on cyanobacteria, but these will be securely contained within a closed-loop system. While the ethical landscape of genetic engineering is complex, we believe the severity of climate change warrants this calculated risk. Transparency and ongoing ethical review are integral to our operations.
 
-1. How Will This Be Funded?
+5. How Will This Be Funded?
 
 Funding will be sourced through a diverse network of individuals, communities, and institutions. For ongoing support, visit Pink Robotics on Patreon. For big contributions or partnerships, reach out directly via email at Tyler@PinkRobotics.ca.
 
-1. What's the Timeline for Implementation?
+6. What's the Timeline for Implementation?
 
 We aim to capture 1 ton of carbon per year within 2 years, scale up to 1 kiloton per year within 5 years, reach 1 gigaton per year within a decade, achieve emission equivalence by 2050, and restore CO2 levels to preindustrial levels by 2100.
 
-1. Is This Scientifically Validated?
+7. Is This Scientifically Validated?
 
 While the concept is based on established scientific principles, we are in the process of seeking third-party validation to lend further credibility to the project.
 
-1. Are There Any Risks or Drawbacks?
+8. Are There Any Risks or Drawbacks?
 
 Like any ambitious project, there are risks. However, this may be our only solution. If so, it must work; it is necessary for the survival of humanity.
 
-1. How Can I Get Involved?
+9. How Can I Get Involved?
 
 Success hinges on visibility and support. To contribute, help amplify the project's reach on social media. Financial contributions are welcome on Patreon, while Reddit is ideal for feedback, discussions and questions. Both platforms can be found under "Pink Robotics." For direct involvement or specific inquiries, email Tyler@PinkRobotics.ca.
 
