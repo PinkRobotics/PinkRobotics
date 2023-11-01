@@ -118,7 +118,7 @@ While the primary aim of this initiative is to address the urgent challenges of 
 
 ### Public - Private
 
-Partnerships Forming partnerships with governmental bodies can provide a steady stream of income through contracts for services such as wildfire fighting, flood control, and agricultural irrigation. These partnerships can also facilitate access to grants and subsidies aimed at environmental conservation.
+Forming partnerships with governmental bodies can provide a steady stream of income through contracts for services such as wildfire fighting, flood control, and agricultural irrigation. These partnerships can also facilitate access to grants and subsidies aimed at environmental conservation.
 
 ### Water Credits
 
