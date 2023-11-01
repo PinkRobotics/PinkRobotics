@@ -20,7 +20,7 @@ True to our ethos, the campus stands as an exemplar of sustainability. We tap in
 
 ### Bridging Borders
 
-Although ensconced away from urban cacophony, our campus isn't a recluse. State-of-the-art communication tools ensure our tether to the global fraternity remains unbroken. Live streams, webinars, and virtual engagements beckon experts and aficionados from across the globe to ally with our mission, guaranteeing a perpetual infusion of diverse ideas and proficiency.
+Although ensconced away from urban cacophony, our campus isn't a recluse. State-of-the-art communication tools ensure our tether to the global community remains unbroken. Live streams, webinars, and virtual engagements beckon experts and aficionados from across the globe to ally with our mission, guaranteeing a perpetual infusion of diverse ideas and proficiency.
 
 ### Building a Legacy
 
