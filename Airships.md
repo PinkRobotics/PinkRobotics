@@ -34,7 +34,7 @@ Airships have fascinated humanity for over a century. Zeppelins and blimps are s
 
 ### The Airship Advantage: A Paradigm Shift in Water Transportation
 
-Airships leverage atmospheric buoyancy to lift significant weight with near-zero energy. Advanced autonomous systems will enable fleets of airships to perform complex tasks such as pipelining water from many diverse and distant sources to a single, potentially distant destination. Imagine a bucket from every brimming lake to a single empty aquifer. 
+Airships leverage atmospheric buoyancy to lift significant weight with near-zero energy. Advanced autonomous systems will enable fleets of airships to perform complex tasks such as pipelining water from many diverse and distant sources to a single destination. Imagine a bucket from every brimming lake to a single empty aquifer. 
 
 ### Overcoming the Wind Challenge
 
