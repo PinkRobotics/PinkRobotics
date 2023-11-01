@@ -1,4 +1,4 @@
-# Robotics: Where Audacity Meets Climate Action
+# Pink Robotics: Where Audacity Meets Climate Action
 
 > Reimagining Climate Solutions for a Sustainable Future.
 
