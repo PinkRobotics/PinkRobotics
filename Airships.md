@@ -209,9 +209,13 @@ The journey from concept to reality is a complex one. This roadmap outlines the 
 ### Always Ongoing: Monitoring, Maintenance, and Community Engagement
 
 *Establish a robust system for monitoring the performance and impact of our airships.
+
 *Implement automated maintenance protocols to ensure the long-term sustainability of the fleet.
+
 *Engage with stakeholders, including regulatory bodies and communities, to adapt and improve the system.
+
 *Maintain a commitment to helping communities wherever possible, always being a force for good.
+
 *Foster a global collaborative platform that invites contributions from a diverse, worldwide audience to continually innovate and refine our solutions.
 
 
