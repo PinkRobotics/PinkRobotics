@@ -10,7 +10,8 @@ Welcome to Pink Robotics, where audacious climate solutions come to life. In the
 
 ### Carbon Capture
 
-In a rapidly changing world, our Carbon Capture initiative offers a beacon of hope. By leveraging the innate carbon-absorbing capabilities of cyanobacteria, we're engineering a closed-loop system aimed at being a solution for the whole CO2 problem, even in the context of inevitable and ongoing fossil fuel emissions. For an in-depth exploration of the science and strategy behind our plans, refer to our [Carbon Capture Paper](https://github.com/PinkRobotics/PinkRobotics/blob/main/CarbonCapture.md).
+In a world confronting the relentless rise of carbon emissions, our Carbon Capture initiative sets a revolutionary course. With the extraordinary carbon-absorbing capabilities of cyanobacteria, we're devising a sustainable closed-loop system designed not just to address current and historical fossil fuel emissions, but also to mitigate excessive natural emissions. Gain a deeper insight into our science and strategy by reviewing our 
+[Carbon Capture Paper](https://github.com/PinkRobotics/PinkRobotics/blob/main/CarbonCapture.md).
 
 ### Airships
 
