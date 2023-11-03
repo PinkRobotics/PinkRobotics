@@ -1,5 +1,5 @@
 ## Our Base of Operations: The Climate Solutions Campus
-<img align="right" src="/Campus/Images/Collections/campus_1.gif" height="300">
+<img align="right" src="/Campus/Images/Collections/campus_1.gif" width="400">
 <br clear="left"/>
 
 > "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
