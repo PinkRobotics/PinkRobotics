@@ -25,4 +25,4 @@ At the heart of Pink Robotics, the Climate Solutions Campus emerges as a beacon 
 
 Are you stirred by our bold strides toward climate restoration? Your support can fuel the next wave of breakthroughs. Consider empowering our mission by joining our [Patreon community](https://www.patreon.com/PinkRobotics). For a vibrant exchange of ideas, engaging discussions, and the pulse of our collective progress, connect with us on [Reddit](https://www.reddit.com/r/PinkRobotics/).
 
-If you are ready to be part of the vanguard, seeking direct collaboration, career opportunities, or to discuss investment possibilities, your expertise and enthusiasm are valuable to us. Contact us at Tyler@PinkRobotics.ca. It's with the strength of our combined efforts that we can elevate audacious dreams to transformative realities."
+If you are ready to be part of the vanguard, seeking direct collaboration, career opportunities, or to discuss investment possibilities, your expertise and enthusiasm are valuable to us. Contact us at Tyler@PinkRobotics.ca. It's with the strength of our combined efforts that we can elevate audacious dreams to transformative realities.
