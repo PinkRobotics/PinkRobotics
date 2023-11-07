@@ -98,7 +98,27 @@ Our airship fleet transcends engineering ingenuity — it represents an indispen
 
 > "Aviation is proof that given the will, we have the capacity to achieve the impossible." — Eddie Rickenbacker
 
+
+
+
 While the primary aim of this initiative is to address the urgent challenges of climate change and water scarcity, its long-term sustainability is contingent upon a viable monetization strategy. Our approach is as multifaceted as the challenges we aim to solve, designed to generate revenue while staying true to our mission of environmental stewardship.
+
+#### Strategic Environmental Services
+
+Our service contracts with government entities position us as a vital tool in their arsenal against environmental emergencies. From local municipalities to federal agencies, we offer tailored wildfire management, flood mitigation, and water management solutions.
+
+#### Water Credits System 
+
+Innovating in the water security sector, we've developed a water credits platform, attracting a broad customer base — from agricultural conglomerates requiring sustainable water sources to urban centers looking to offset their water footprint.
+
+#### Subscription-Based Stability 
+
+Our reliable subscription services for water supply cater to the consistent needs of agricultural businesses and industrial complexes, ensuring they receive uninterrupted resources while providing us with a predictable revenue flow.
+
+#### Resource Logistics for Remote Mining 
+
+By extending our logistics capabilities to the mining industry, we target a sector with significant logistical challenges. Mining companies operating in the Canadian North, where establishing traditional infrastructure is impractical, can rely on our aerial transport services to unlock new resource deposits, enhancing their operations and reducing environmental impact.
+
 
 ### Public - Private
 
