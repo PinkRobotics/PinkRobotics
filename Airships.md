@@ -16,7 +16,7 @@ Amidst rampant wildfires and devastating water shortages, this paper presents a 
 
 The climate crisis calls for innovative solutions that challenge the status quo. This paper presents a new strategy to combat climate change by reimagining large scale water transport. Our goal is to create a fleet of airships that serve as guardians of our ecosystems, delivering life-giving water precisely where and when it's needed, and removing it where it is not.
 
-## Background: The Logistical Nightmare of Water Transportation
+#### Background: The Logistical Nightmare of Water Transportation
 
 Water is heavy, really heavy, which makes it really hard to move around. Current methods have proven to be inadequate for the scale and complexity of the challenges we face.
 
