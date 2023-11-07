@@ -3,7 +3,6 @@
 <img align="right" src="/Airships/Images/Collections/airships_1.gif" width="400">
 <br clear="left"/>
 
-> "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do." - Sarah Ban Breathnach
 
 ## Abstract
 
